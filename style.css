@@ -150,7 +150,7 @@ footer a {
 
 .bio-pic-container {
     background: url("content/biopic.jpeg") no-repeat;
-    background-position: center center;
+    background-position: -108px -2px;
     border: solid white 4px;
     margin: auto;
     height: 180px;
