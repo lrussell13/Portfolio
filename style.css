@@ -378,9 +378,6 @@ footer a {
         height: 667px;
     }
 
-    #projects {
-        height: 667px;
-    }
     nav{
         font-size: 20px;
     }
@@ -411,9 +408,6 @@ footer a {
         height: 736px;
     }
 
-    #projects {
-        height: 736px;
-    }
 }
 
 @media only screen and (min-width:  600px) and (max-width: 1000px) {
@@ -436,10 +430,6 @@ footer a {
     }
     
     .resume-container {
-        height: 1024px;
-    }
-
-    #projects {
         height: 1024px;
     }
 }
